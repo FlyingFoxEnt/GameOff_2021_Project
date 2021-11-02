@@ -11,7 +11,7 @@ We are here to learn has much as possible, DiabloFox know already Unreal Engine 
 
 The game is created on Unreal Engine 5 and can be download here : 
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/ryanjon2040/Discord-UE4/total?logo=github&style=for-the-badge)](https://github.com/DiabloFox/GameOff2021/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/ryanjon2040/Discord-UE4/total?logo=github&style=for-the-badge)](https://github.com/FlyingFoxEnt/GameOff_2021_Project/releases)
 
 
 # Used assets 
